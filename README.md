@@ -1,4 +1,4 @@
-# Proiect PC1
+# Proiect PC1 2022
 
 Înlocuiți titlul cu titlul proiectului vostru și adăugați o scurtă descriere.
 
